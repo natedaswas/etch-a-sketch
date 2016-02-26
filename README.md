@@ -1,2 +1,2 @@
 # etch-a-sketch
-Simple javascript etch a sketch app fro the odin project.
+Simple javascript etch a sketch app for http://www.theodinproject.com/
